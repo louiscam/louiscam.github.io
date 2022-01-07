@@ -3,38 +3,24 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+I currently serve as the Bok Center Pedagogy Fellow for Statistics at Harvard. My role includes training new Statistics Teaching Fellows, providing pedagogical support within the Harvard Statistics Department and acting as a liaison with the [Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/). I view teaching as a unique way to communicate my passion for Statistics to students and pass on the skills and knowledge that I have received from my teachers. During my PhD, I have had the opportunity to serve as Teaching Fellow in Statistics and Probability courses at both the graduate and the undergraduate level. My commitment to teaching was rewarded by Teaching Awards from Harvard College for STAT210, STAT212 and STAT139.
 
+I am also convinced that impactful teaching is critical to promote Statistics and inspire K-12 students to pursue education and careers in the field. As part of the MIT [MISTI Global Teaching Labs](https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs), I designed and taught  an Introductory Probability course to high school students in the [Jubilee Institute](http://www.jubilee.edu.jo/) (Amman, Jordan) in January 2017. My 4-week curriculum used hands-on, active learning strategies to teach the intuition behind deep scientific concepts (e.g. statistical biases, Monte Carlo sampling, network analysis) with almost no mathematical equations. This is possible, even in probability: for example, I had my students compute the proportion of land on Earth by randomly tossing an inflatable globe!
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+During my MSc in Technology & Policy at MIT (2016-2018), part of my research focused on innovative teaching strategies using [MIT BLOSSOMS](https://blossoms.mit.edu/mit_blossoms_initiative_math_science_video_lessons_high_school_students), an
+open-source and hands-on educational platform for STEM courses at the high school level co-founded by my academic advisor [Professor Richard C. Larson](https://idss.mit.edu/staff/richard-larson/). BLOSSOMS proved to be an incredible tool teach Probability in a fun way and successfully engage students. I shared my experience in the [MIT BLOSSOMS Newsletter](https://blossoms.mit.edu/news/newsletters/december_2016_january_2017).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
+## Harvard University (Cambridge, MA)
+- STAT303: The Art and Practice of Teaching and Communicating Statistics (Fall 2021 and Spring 2022)
+- STAT139: Time Series Analysis (Spring 2021)
+- STAT210: Probability I (Fall 2020)
+- STAT212: Probability II (Spring 2020)
+- STAT210: Probability I (Fall 2019)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+## The Jubilee Institute (Amman, Jordan)
+- High School Introductory Probability (January 2017)
+
+## Lycee Louis-le-Grand (Paris, France)
+- Undegraduate Oral Examiner in Physics (Fall 2014 and Spring 2015)
