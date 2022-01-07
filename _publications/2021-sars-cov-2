@@ -6,5 +6,5 @@ date: 2021-01-01
 venue: 'Nature communications'
 link: 'https://www.nature.com/articles/s41467-021-21056-z'
 github: 'https://github.com/uhlerlab/covid19_repurposing'
-citation: 'Belyaeva, A.\*, Cammarata, L.\*, Radhakrishnan, A.\*, Squires, C., Dai Yang, K., Shivashankar, G.V. and Uhler, C., 2021. &quot;Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing.&quot; <i>Nature communications</i>, 12(1), pp.1-13.'
+citation: 'Belyaeva, A.<sup>*</sup>, Cammarata, L.<sup>*</sup>, Radhakrishnan, A.<sup>*</sup>, Squires, C., Dai Yang, K., Shivashankar, G.V. and Uhler, C., 2021. &quot;Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing.&quot; <i>Nature communications</i>, 12(1), pp.1-13.'
 ---
