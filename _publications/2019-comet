@@ -1,0 +1,10 @@
+---
+title: "Combinatorial prediction of marker panels from single‐cell transcriptomic data"
+collection: publications
+permalink: /publication/2019-comet
+date: 2019-01-01
+venue: 'Molecular systems biology'
+link: 'https://www.embopress.org/doi/full/10.15252/msb.20199005'
+github: 'https://github.com/Cnrdelaney/HG_marker_detection'
+citation: 'Delaney, C.\*, Schnell, A.\*, Cammarata, L.V.\*, Yao‐Smith, A., Regev, A., Kuchroo, V.K. and Singer, M., 2019. &quot;Combinatorial prediction of marker panels from single‐cell transcriptomic data.&quot; <i>Molecular systems biology</i>, 15(10), p.e9005.'
+---
