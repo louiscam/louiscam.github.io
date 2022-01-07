@@ -25,6 +25,6 @@ open-source and hands-on educational platform for STEM courses at the high schoo
 ## High School Teacher at the Jubilee Institute (Amman, Jordan)
 - **Introductory Probability** (January 2017)
 
-## Oral Examiner at Lycee Louis-le-Grand (Paris, France)
+## Oral Examiner at Lycée Louis-le-Grand (Paris, France)
 - **Core Undergraduate Physics course** (Fall 2014/Spring 2015)
     - Instructor: Prof. Nicolas Schlosser
