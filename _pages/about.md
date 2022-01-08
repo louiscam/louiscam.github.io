@@ -8,10 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-- I am... affiliations ([Harvard University Statistics](https://statistics.fas.harvard.edu/), Broad Institute affiliate)
-- I specialize in...
-- I earned my MSc from [MIT](url), etc.
+I am a 4th-year PhD students in the [Statistics Department](https://statistics.fas.harvard.edu/) at Harvard University. I work with [Prof. Tracy Ke](http://zke.fas.harvard.edu/) (Harvard Statistics) on statistical theory and methods for network systems and with [Prof. Caroline Uhler](https://www.carolineuhler.com/) (MIT EECS) on the development of machine learning methods in computational biology.
 
-A section focused on my work
-- My work focuses on, explores, etc.
+My PhD research focuses on the analysis of network systems and complex systems across the full spectrum of Statistics: theory, methodology and applications, in particular to biological problems. I have teaching experience in both Statistics and Probability and I currently serve as the Pedagogy Fellow for the Statistics Department at Harvard. 
+
+# Education
+
+* PhD, Statistics Department, Harvard University, Cambridge, MA, 2018-(2023)
+* MSc, Technology and Policy Program, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
+* MSc, Biological Engineering, École Polytechnique, Palaiseau, France, 2015-2016
+* BSc, Mathematics and Science, École Polytechnique, Palaiseau, France, 2013-2015
+
+# Fellowships & Awards
+
+Bok Center Statistics Pedagogy Fellowship, Harvard University, 2021
+Bok Center Certificate of Distinction in Teaching Award, Harvard University, 2019-2020-2021
+Keystone Symposia Travel Fellowship, Keystone Symposia, 2019
+Technology & Policy Program Best Thesis Award, Massachusetts Institute of Technology, 2018
+Outstanding Investment Award, École Polytechnique, 2015
