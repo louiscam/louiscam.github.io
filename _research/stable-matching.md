@@ -8,3 +8,4 @@ header:
   og_image: "research/ternary.png"
 ---
 
+Work in progress.
