@@ -12,13 +12,13 @@ Modern breakthroughs in assays and computing have enabled the massive collection
 
 ## Articles
 
-Belyaeva\*, A., Cammarata\*, L., Radhakrishnan\*, A., Squires, C., Yang, K.D., Shivashankar, G.V. and Uhler, C., 2021. "Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing". _Nature Communications_.
+Belyaeva\*, A., Cammarata\*, L., Radhakrishnan\*, A., Squires, C., Yang, K.D., Shivashankar, G.V. and Uhler, C., 2021. Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing. _Nature Communications_.
 
 > In this project, I developed a drug repurposing pipeline using overparametrized representation learning, network analysis and causal structure learning and applied it to identify *in silico* candidate drug targets for the treatment of COVID-19. Our work got media coverage in the [MIT News Office](https://news.mit.edu/2021/machine-learning-treatment-covid-19-0216) and other specialized online media.
 
 [Article](https://www.nature.com/articles/s41467-021-21056-z){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/covid19_repurposing){: .btn--research}
 
-Delaney\*, C., Schnell\*, A., Cammarata\*, L., Yao-Smith, A., Regev, A., Kuchroo, V.K. and Singer, M., 2019. "COMET: a tool for marker-panel selection from single-cell transcriptomic data". _Molecular systems biology_.
+Delaney\*, C., Schnell\*, A., Cammarata\*, L., Yao-Smith, A., Regev, A., Kuchroo, V.K. and Singer, M., 2019. COMET: a tool for marker-panel selection from single-cell transcriptomic data. _Molecular systems biology_.
 
 > In this project, I developed COMET, a computational tool for combinatorial marker detection from single-cell transcriptomic data available as an online platform and a Python package and leveraged tool to identify B cell subpopulations.
 
@@ -26,6 +26,6 @@ Delaney\*, C., Schnell\*, A., Cammarata\*, L., Yao-Smith, A., Regev, A., Kuchroo
 
 ## Manuscript in preparation
 
-Cammarata, L., Shivashankar, G.V. and Uhler, C. "Mapping adhesome protein assemblies to 3D genome structure". _Manuscript in preparation_.
+Cammarata, L., Shivashankar, G.V. and Uhler, C. Mapping adhesome protein assemblies to 3D genome structure. _Manuscript in preparation_.
 
 > In this project, I characterize a map between protein assemblies on cell membrane and 3D organization of genome in nucleus.
