@@ -14,13 +14,13 @@ My PhD research focuses on the analysis of network systems and complex systems a
 
 # Education
 
-* PhD, Statistics, Harvard University, Cambridge, MA, 2018-present
+PhD, Statistics, Harvard University, Cambridge, MA, 2018-present
 
-* MS, Technology & Policy, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
+MSc, Technology & Policy, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
 
-* MSc, Biological Engineering, École Polytechnique, Palaiseau, France, 2015-2016
+MSc, Biological Engineering, École Polytechnique, Palaiseau, France, 2015-2016
 
-* BSc, Mathematics & Science, École Polytechnique, Palaiseau, France, 2013-2015
+BSc, Mathematics & Science, École Polytechnique, Palaiseau, France, 2013-2015
 
 # Fellowships & Awards
 
