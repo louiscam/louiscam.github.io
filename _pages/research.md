@@ -7,28 +7,11 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My research falls into two main areas: developing new methods and theory in network systems, and addressing complex problems in biology using machine learning techniques on modern omics data. One strand of research in this first area develops a novel statistically optimal and computationally tractable test for detecting the presence of communities in networks in which agents can simultaneously belong to several communities. My interest in time-evolving networks also informs a current methodological project on the estimation of mixed memberships in dynamic network models. The methods I design come with strong statistical guarantees and are applicable to analyze, e.g., social networks and biological networks.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+My other main research agenda uses machine learning to develop new methods in computational biology. One project develops a computational framework for the identification of combinatorial marker panels for cell populations identified with single-cell RNA-seq data. In another work, I conceived a drug repurposing pipeline to identify in silico candidate drugs for repurposing against SARS-CoV-2. In my current projects, I leverage network methods to characterize the relationship between protein interactions on the cell membrane and gene interactions in the nucleus and I also use Bayesian optimization and causality to better inform _in vitro_ cell reprogramming experiments.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
-
+In a new avenue of research, I leverage tools from probability to better characterize the optimality of stable marriages under correlated preferences, which has implications, e.g., for the students/schools matching problem and the hospitals/residents matching problem.
 <nbsp>
 
 {% include base_path %}
