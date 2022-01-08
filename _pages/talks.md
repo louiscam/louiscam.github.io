@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Selected conference presentations"
+title: "Selected oral and posters presentations"
 ---
 
 Cammarata, L. Drug Repurposing Pipeline Using Overparametrized Representation Learning and Causality. Oral presentation delivered at Purdue University Data Science Week, West Lafayette, IN (virtual), November 2021.
