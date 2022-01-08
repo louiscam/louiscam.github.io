@@ -21,4 +21,4 @@ Many social and biological network systems are characterized by highly sophistic
 
 **Cammarata, L.V.**, Jiang, K., Jin, J. and Ke, Z.T.. Mixed Membership Estimation in the Dynamic Degree-Corrected Mixed Membership Stochastic Block Model. *Manuscript in preparation*.
 
-> In this work, I develop a dynamic mixed-membership estimation algorithm using spectral methods in the Degree-Corrected Mixed Membership Stochastic Block Model and apply the algorithm to several real-world network data sets.
+> In this work, I develop a dynamic mixed-membership estimation algorithm using spectral methods in the Degree-Corrected Mixed Membership Stochastic Block Model and apply the algorithm to several real-world dynamic network data sets.
