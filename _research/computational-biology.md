@@ -1,5 +1,5 @@
 ---
-title: "Measurement"
+title: "Computational Biology"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
@@ -8,15 +8,15 @@ header:
   og_image: "research/Agreement-Strength.png"
 ---
 
-In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One uses Bayesian latent variable models to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. Another harnesses advances in big data and develops new measures of economic interdependence and methods for detecting disruptions of regular economic exchange between states from a product-level trade dataset with over two billion observations.
+Modern breakthroughs in assays and computing have enabled the massive collection of data on complex biological systems. My research focus is to develop computational biology methods to improve our understanding of gene regulation during health and disease and better inform *in vitro* scientific experiments. I have worked on projects including combinatorial biomarker identification, drug repurposing, structured gene regulation and sequential experimental design. 
 
-## Article
+## Articles
 
-Rob Williams, Daniel Gustafson, Stephen Gent, and Mark Crescenzi. "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength." *Political Science Research and Methods*.
+Delaney*, C., Schnell*, A., Cammarata*, L., Yao-Smith, A., Regev, A., Kuchroo, V.K. and Singer, M., 2019. "COMET: a tool for marker-panel selection from single-cell transcriptomic data". *Molecular Systems Biology*.
 
-> Much of the peace agreement durability literature assumes that stronger peace agreements are more likely to survive the trials of the post-conflict environment. This work does an excellent job identifying which provisions indicate that agreements are more likely to endure. However, there is no widely accepted way to directly measure the strength of agreements, and existing measures suffer from a lack of nuance or reliance on subjective weighting. We use a Bayesian item response theory model to develop a principled measure of the latent strength of peace agreements in civil conflicts from 1975-2005. We illustrate the measure’s utility by exploring how various international factors such as sanctions and mediation contribute to the strength or weakness of agreements.
+> In this project, I developed COMET, a computational tool for combinatorial marker detection from single-cell transcriptomic data available as an online platform and Python package and leveraged tool to identify B cell subpopulations.
 
-[Article](https://doi.org/10.1017/psrm.2019.23){: .btn--research} [Preprint](/files/pdf/research/Agreement Strength.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Agreement Strength SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/VUY8UI){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/Peace-Agreement-Strength){: .btn--research}
+[Article](https://www.embopress.org/doi/full/10.15252/msb.20199005){: .btn--research} [COMET online platform](http://www.cometsc.com/index){: .btn--research} [Python package](https://hgmd.readthedocs.io/en/latest/){: .btn--research} [GitHub Repo](https://github.com/MSingerLab/COMETSC){: .btn--research}
 
 ## Working papers
 
