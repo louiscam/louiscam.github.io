@@ -20,7 +20,7 @@ Belyaeva\*, A., **Cammarata\*, L.**, Radhakrishnan\*, A., Squires, C., Yang, K.D
 
 Delaney\*, C., Schnell\*, A., **Cammarata\*, L.**, Yao-Smith, A., Regev, A., Kuchroo, V.K. and Singer, M., 2019. COMET: a tool for marker-panel selection from single-cell transcriptomic data. _Molecular systems biology_.
 
-> In this project, I developed COMET, a computational tool for combinatorial marker detection from single-cell transcriptomic data available as an online platform and a Python package and leveraged tool to identify B cell subpopulations.
+> In this project, I developed COMET, a computational tool for combinatorial marker detection from single-cell transcriptomic data available as an online platform and a Python package and leveraged COMET to identify B cell subpopulations.
 
 [Article](https://www.embopress.org/doi/full/10.15252/msb.20199005){: .btn--research} [COMET online platform](http://www.cometsc.com/index){: .btn--research} [Python package](https://hgmd.readthedocs.io/en/latest/){: .btn--research} [GitHub Repo](https://github.com/MSingerLab/COMETSC){: .btn--research}
 
