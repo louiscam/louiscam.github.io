@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wecolme! I am a 4th-year PhD student in the [Statistics Department](https://statistics.fas.harvard.edu/) at Harvard University. I work with [Prof. Tracy Ke](http://zke.fas.harvard.edu/) (Harvard Statistics) on statistical theory and methods for network systems and with [Prof. Caroline Uhler](https://www.carolineuhler.com/) (MIT EECS) on the development of machine learning methods in computational biology.
+Welcome! I am a 4th-year PhD student in the [Statistics Department](https://statistics.fas.harvard.edu/) at Harvard University. I work with [Prof. Tracy Ke](http://zke.fas.harvard.edu/) (Harvard Statistics) on statistical theory and methods for network systems and with [Prof. Caroline Uhler](https://www.carolineuhler.com/) (MIT EECS) on the development of machine learning methods in computational biology.
 
 My PhD research focuses on the analysis of network systems and complex systems across the full spectrum of Statistics: theory, methodology and applications, in particular to biological problems. I have teaching experience in both Statistics and Probability and I currently serve as the Harvard Statistics Pedagogy Fellow. 
 
