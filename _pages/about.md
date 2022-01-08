@@ -14,7 +14,7 @@ My PhD research focuses on the analysis of network systems and complex systems a
 
 # Education
 
-* PhD, Statistics Department, Harvard University, Cambridge, MA, 2018-present
+* PhD, Statistics, Harvard University, Cambridge, MA, 2018-present
 
 * MSc, Technology & Policy, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
 
