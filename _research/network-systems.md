@@ -1,7 +1,7 @@
 ---
 title: "Network Systems"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/network-systems.png' alt=''>"
 collection: research
 order_number: 10
 header: 
