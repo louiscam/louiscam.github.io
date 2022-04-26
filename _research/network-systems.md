@@ -15,7 +15,7 @@ Many social and biological network systems are characterized by highly sophistic
 
 > In this work, I derived the phase transition of global detection (i.e., testing whether a network has more than one community) in the Mixed Membership Stochastic Block Model and I designed a novel statistically optimal and computationally tractable hypothesis test called the Power-Enhancement Test.
 > 
-[Article](){: .btn--research} [GitHub Repo](){: .btn--research}
+[Article](https://arxiv.org/abs/2204.11109){: .btn--research} [GitHub Repo](){: .btn--research}
 
 ## Manuscript in preparation
 
