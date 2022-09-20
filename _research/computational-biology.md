@@ -14,7 +14,7 @@ Modern breakthroughs in assays and computing have enabled the massive collection
 
 Zhang, J., **Cammarata\*, L.**, Squires\*, C., Sapsis, T.P. and Uhler, C., 2022. Active Learning for Optimal Intervention Design in Causal Models. _arXiv_.
 
-> In this project, we designed an active learning procedure to push a system from a source state to a target state when this system can be described with a structural causal model. Relevant applications of this work include regprogramming experiments, in which cells from a given cell type are transdifferentiated to a target cell type of interest.
+> In this project, we designed an active learning procedure to push a system from a source state to a target state when this system can be described with a structural causal model. Relevant applications of this work include reprogramming experiments, in which cells from a given type are transdifferentiated to a target cell type of interest.
 
 [Article](https://arxiv.org/abs/2209.04744){: .btn--research} [GitHub Repo](){: .btn--research}
 
