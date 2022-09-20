@@ -12,6 +12,12 @@ Modern breakthroughs in assays and computing have enabled the massive collection
 
 ## Articles
 
+Zhang, J., **Cammarata\*, L.**, Squires\*, C., Sapsis, T.P. and Uhler, C., 2022. Active Learning for Optimal Intervention Design in Causal Models. _arXiv_.
+
+> In this project, we designed an active learning procedure to push a system from a source state to a target state when this system can be described with a structural causal model. Relevant applications of this work include transdifferentiating cells from a given cell type (e.g., fibroblasts) to a target cell type of interest (e.g., neurons).
+
+[Article](https://arxiv.org/abs/2209.04744){: .btn--research} [GitHub Repo](){: .btn--research}
+
 Belyaeva\*, A., **Cammarata\*, L.**, Radhakrishnan\*, A., Squires, C., Yang, K.D., Shivashankar, G.V. and Uhler, C., 2021. Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing. _Nature Communications_.
 
 > In this project, I developed a drug repurposing pipeline using overparametrized representation learning, network analysis and causal structure learning and applied it to identify *in silico* candidate drug targets for the treatment of COVID-19. Our work got media coverage in the [MIT News Office](https://news.mit.edu/2021/machine-learning-treatment-covid-19-0216) and other specialized online media.
