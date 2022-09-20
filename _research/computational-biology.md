@@ -32,6 +32,4 @@ Delaney\*, C., Schnell\*, A., **Cammarata\*, L.**, Yao-Smith, A., Regev, A., Kuc
 
 ## Manuscript in preparation
 
-**Cammarata, L.**, Shivashankar, G.V. and Uhler, C. Mapping adhesome protein assemblies to 3D genome structure. _Manuscript in preparation_.
-
-> In this project, I characterize a map between the structure of protein assemblies on the cell membrane and the 3D organization of the genome in the nucleus.
+**Cammarata, L.**, Shivashankar, G.V. and Uhler, C. Adhesome Receptor Clustering is Accompanied by the Co-localization of the Associated Genes in the Cell Nucleus. _Manuscript in preparation_.
