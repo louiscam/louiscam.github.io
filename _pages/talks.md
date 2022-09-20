@@ -3,6 +3,10 @@ permalink: /talks/
 title: "Selected oral and poster presentations"
 ---
 
+**Cammarata, L.** Adhesome receptor clustering is accompanied by the co-localization of adhesome genes in the cell nucleus. Oral presentation delivered at the Broad Institute Cell Circuits and Epigenomics Seminar Series, Cambridge, MA, June 2022.
+
+**Cammarata, L.** Network Global Testing: Phase Transitions and Power Enhancement. Oral presentation delivered at the Harvard Mini-Workshop on Algebraic Statistics, Cambridge, MA, April 2022.
+
 **Cammarata, L.** Drug Repurposing Pipeline Using Overparametrized Representation Learning and Causality. Oral presentation delivered at Purdue University Data Science Week, West Lafayette, IN (virtual), November 2021.
 
 **Cammarata, L.** Drug Repurposing Pipeline Using Overparametrized Representation Learning and Causality. Oral presentation delivered at Barcelona Supercomputing Center (BSC), Barcelona, Spain (virtual), September 2021.
