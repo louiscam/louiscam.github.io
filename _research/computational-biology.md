@@ -8,15 +8,24 @@ header:
   og_image: "research/Agreement-Strength.png"
 ---
 
-Modern breakthroughs in assays and computing have enabled the massive collection of data on complex biological systems. I develop computational biology methods to improve our understanding of gene regulation during health and disease and better inform *in vitro* scientific experiments. I have worked on projects including combinatorial biomarker identification, drug repurposing, gene regulation and sequential experimental design. 
+Modern breakthroughs in assays and computing have enabled the massive collection of data on complex biological systems. I develop computational biology methods to improve our understanding of gene regulation and better inform *in vitro* scientific experiments. I have worked on projects including combinatorial biomarker identification, drug repurposing, experimental design, cellular aging, and nuclear mechanogenomics. 
 
 ## Articles
 
-Zhang, J., **Cammarata\*, L.**, Squires\*, C., Sapsis, T.P. and Uhler, C., 2022. Active Learning for Optimal Intervention Design in Causal Models. _arXiv_.
+**Cammarata, L.**, Uhler, C. and Shivashankar, G.V., 2023. Adhesome Receptor Clustering is Accompanied by the Co-localization of the Associated Genes in the Cell Nucleus. _bioRxiv_.
+> 
 
-> In this project, we designed an active learning procedure to push a system from a source state to a target state when this system can be described with a structural causal model. Relevant applications of this work include reprogramming experiments, in which cells from a given type are transdifferentiated to a target cell type of interest.
+[Article](https://www.biorxiv.org/content/10.1101/2023.12.07.570697v1){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/adhesome_clustering/){: .btn--research}
 
-[Article](https://arxiv.org/abs/2209.04744){: .btn--research} [GitHub Repo](){: .btn--research}
+Braunger\*, J.M., **Cammarata\*, L.V.**, Sornapudi, T., Uhler, C. and Shivashankar, G.V., 2023. Transcriptional changes are tightly coupled to chromatin reorganization during cellular aging. _Aging Cell_.
+>
+
+[Article](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14056){: .btn--research} [GitHub Repo]([https://github.com/uhlerlab/adhesome_clustering/](https://github.com/uhlerlab/aging_transcriptome_and_chromatin)){: .btn--research}
+
+Zhang, J., **Cammarata\*, L.V., Squires\*, C.**, Sapsis, T.P. and Uhler, C., 2023. Active learning for optimal intervention design in causal models. _Nature Machine Intelligence_.
+> 
+
+[Article](https://www.nature.com/articles/s42256-023-00719-0){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/actlearn_optint){: .btn--research}
 
 Belyaeva\*, A., **Cammarata\*, L.**, Radhakrishnan\*, A., Squires, C., Yang, K.D., Shivashankar, G.V. and Uhler, C., 2021. Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing. _Nature Communications_.
 
@@ -32,4 +41,3 @@ Delaney\*, C., Schnell\*, A., **Cammarata\*, L.**, Yao-Smith, A., Regev, A., Kuc
 
 ## Manuscript in preparation
 
-**Cammarata, L.**, Shivashankar, G.V. and Uhler, C. Adhesome Receptor Clustering is Accompanied by the Co-localization of the Associated Genes in the Cell Nucleus. _Manuscript in preparation_.
