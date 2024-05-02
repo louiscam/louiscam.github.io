@@ -1,10 +1,10 @@
 ---
-title: "Active Learning for Optimal Intervention Design in Causal Models"
+title: "Active learning for optimal intervention design in causal models"
 collection: publications
 permalink: /publication/2022-mean-matching
-date: 2022-09-10
-venue: 'arXiv'
-link: 'https://arxiv.org/abs/2209.04744'
+date: 2023-10-02
+venue: 'Nature Machine Intelligence'
+link: 'https://www.nature.com/articles/s42256-023-00719-0'
 github: ''
-citation: 'Zhang, J., <b>Cammarata, L.V.*</b>, Squires, C.*, Sapsis, T.P. and Uhler, C., 2022. Active Learning for Optimal Intervention Design in Causal Models. <i>aRxiv</i>.'
+citation: 'Zhang, J., <b>Cammarata, L.V.*</b>, Squires, C.*, Sapsis, T.P. and Uhler, C., 2023. Active learning for optimal intervention design in causal models. <i>Nature Machine Intelligence</i>.'
 ---
