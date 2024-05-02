@@ -1,9 +1,9 @@
 ---
 title: "Statistical Consulting"
 layout: single-portfolio
-excerpt: "<img src='/images/research/network-systems.png' alt=''>"
+excerpt: "<img src='/images/research/statconsulting.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 30
 header: 
   og_image: "research/epr.png"
 ---
