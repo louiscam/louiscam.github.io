@@ -20,7 +20,7 @@ Modern breakthroughs in assays and computing have enabled the massive collection
 Braunger\*, J.M., **Cammarata\*, L.V.**, Sornapudi, T., Uhler, C. and Shivashankar, G.V., 2023. Transcriptional changes are tightly coupled to chromatin reorganization during cellular aging. _Aging Cell_.
 > In this project, we developed novel a time-course prize-collecting Steiner tree algorithm to identify age-associated transcription factors and investigated the coupling between gene transcription and spatial gene clustering in aging (using RNA-seq, ChIP-seq, Hi-C). Our work got media coverage in the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/updates/researchers-identify-new-regulators-of-cellular-aging).
 
-[Article](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14056){: .btn--research} [GitHub Repo]([https://github.com/uhlerlab/adhesome_clustering/](https://github.com/uhlerlab/aging_transcriptome_and_chromatin)){: .btn--research}
+[Article](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14056){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/aging_transcriptome_and_chromatin){: .btn--research}
 
 Zhang, J., **Cammarata\*, L.V., Squires\*, C.**, Sapsis, T.P. and Uhler, C., 2023. Active learning for optimal intervention design in causal models. _Nature Machine Intelligence_.
 > In this work, we developed a consistent causal active learning strategy to identify optimal interventions in linear causal models with known causal graph for the discrepancy between the post-interventional mean of the distribution and a desired target mean.
@@ -37,7 +37,7 @@ Delaney\*, C., Schnell\*, A., **Cammarata\*, L.**, Yao-Smith, A., Regev, A., Kuc
 
 > In this project, we developed COMET, a computational tool for combinatorial marker detection from single-cell transcriptomic data available as an online platform and a Python package and leveraged COMET to identify B cell subpopulations.
 
-[Article](https://www.embopress.org/doi/full/10.15252/msb.20199005){: .btn--research} [COMET online platform](http://www.cometsc.com/index){: .btn--research} [Python package](https://hgmd.readthedocs.io/en/latest/){: .btn--research} [GitHub Repo](https://github.com/MSingerLab/COMETSC){: .btn--research}
+[Article](https://www.embopress.org/doi/full/10.15252/msb.20199005){: .btn--research} [Python package](https://hgmd.readthedocs.io/en/latest/){: .btn--research} [GitHub Repo](https://github.com/MSingerLab/COMETSC){: .btn--research}
 
 ## Manuscripts in preparation
 
