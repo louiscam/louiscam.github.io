@@ -13,12 +13,12 @@ Modern breakthroughs in assays and computing have enabled the massive collection
 ## Articles
 
 **Cammarata, L.**, Uhler, C. and Shivashankar, G.V., 2023. Adhesome Receptor Clustering is Accompanied by the Co-localization of the Associated Genes in the Cell Nucleus. _bioRxiv_.
-> In this project, we characterized map between protein assemblies on the cell membrane and 3D organization of the genome in nucleus, specifically for adhesome in IMR-90 fibroblasts using multiple genomic/epigenomic data modalities (RNA-seq, ChIP-seq, Hi-C, FISH).
+> In this project, we characterized the map between protein assemblies on the cell membrane and 3D organization of the genome in nucleus, specifically for adhesome in IMR-90 fibroblasts using multiple genomic/epigenomic data modalities (RNA-seq, ChIP-seq, Hi-C, FISH).
 
 [Article](https://www.biorxiv.org/content/10.1101/2023.12.07.570697v1){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/adhesome_clustering/){: .btn--research}
 
 Braunger\*, J.M., **Cammarata\*, L.V.**, Sornapudi, T., Uhler, C. and Shivashankar, G.V., 2023. Transcriptional changes are tightly coupled to chromatin reorganization during cellular aging. _Aging Cell_.
-> In this project, we developed novel a time-course prize-collecting Steiner tree algorithm to identify age-associated transcription factors and investigated the coupling between gene transcription and spatial gene clustering in aging (using RNA-seq, ChIP-seq, Hi-C). Our work got media coverage in the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/updates/researchers-identify-new-regulators-of-cellular-aging).
+> In this project, we developed a novel time-course prize-collecting Steiner tree algorithm to identify age-associated transcription factors and investigated the coupling between gene transcription and spatial gene clustering in aging (using RNA-seq, ChIP-seq, Hi-C). Our work got media coverage in the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/updates/researchers-identify-new-regulators-of-cellular-aging).
 
 [Article](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14056){: .btn--research} [GitHub Repo](https://github.com/uhlerlab/aging_transcriptome_and_chromatin){: .btn--research}
 
