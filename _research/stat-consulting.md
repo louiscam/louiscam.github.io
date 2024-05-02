@@ -1,5 +1,5 @@
 ---
-title: "Statistical Consulting"
+title: "Statistical consulting"
 layout: single-portfolio
 excerpt: "<img src='/images/research/statconsulting.png' alt=''>"
 collection: research
