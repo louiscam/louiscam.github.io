@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome! I am a 6th-year Ph.D. student in the [Statistics Department](https://statistics.fas.harvard.edu/) at Harvard University, co-advised by [Prof. Tracy Ke](http://zke.fas.harvard.edu/) (Harvard University) and [Prof. Caroline Uhler](https://www.carolineuhler.com/) (Broad Institute of MIT and Harvard).
 
-My PhD research focuses on theory, methods, and applications in network data science. My theoretical work includes studying the optimal phase transition for global testing in the mixed membership stochastic block model, and developing a new algorithm for mixed membership estimation in dynamic networks. My applied work leverages network and other statistical methods to analyze modern genomic data sets in the context of, e.g., biomarker discovery, drug repurposing, cellular aging, and 3D genome. I also have teaching experience in both Statistics and Probability.
+My PhD research focuses on theory, methods, and applications in network data science. My theoretical work includes studying the optimal phase transition for global testing in the mixed membership stochastic block model, and developing a new algorithm for mixed membership estimation in dynamic networks. My applied work leverages network and other statistical methods to analyze modern genomic data sets in the context of, e.g., biomarker discovery, drug repurposing, cellular aging, and 3D genome. 
+
+I have teaching experience in both Statistics and Probability.
 
 # Education
 
