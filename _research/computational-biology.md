@@ -1,5 +1,5 @@
 ---
-title: "Computational Biology"
+title: "Computational biology"
 layout: single-portfolio
 excerpt: "<img src='/images/research/comp-bio.png' alt=''>"
 collection: research
