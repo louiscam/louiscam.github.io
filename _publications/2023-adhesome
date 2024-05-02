@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-adhesome
 date: 2023-12-08
 venue: 'bioRxiv'
-link: 'https://github.com/uhlerlab/adhesome_clustering/)'
+link: 'https://github.com/uhlerlab/adhesome_clustering/'
 github: 'https://github.com/uhlerlab/aging_transcriptome_and_chromatin'
 citation: '<b>Cammarata<sup>*</sup>, L.V.</b>, Uhler, C. and Shivashankar, G.V., 2023. Adhesome Receptor Clustering is Accompanied by the Co-localization of the Associated Genes in the Cell Nucleus. <i>bioRxiv</i>.'
 ---
