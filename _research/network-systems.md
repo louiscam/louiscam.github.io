@@ -1,5 +1,5 @@
 ---
-title: "Network Systems"
+title: "Network science"
 layout: single-portfolio
 excerpt: "<img src='/images/research/network-systems.png' alt=''>"
 collection: research
