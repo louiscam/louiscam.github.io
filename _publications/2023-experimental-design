@@ -5,6 +5,6 @@ permalink: /publication/2022-mean-matching
 date: 2023-10-02
 venue: 'Nature Machine Intelligence'
 link: 'https://www.nature.com/articles/s42256-023-00719-0'
-github: ''
+github: 'https://github.com/uhlerlab/actlearn_optint'
 citation: 'Zhang, J., <b>Cammarata, L.V.*</b>, Squires, C.*, Sapsis, T.P. and Uhler, C., 2023. Active learning for optimal intervention design in causal models. <i>Nature Machine Intelligence</i>.'
 ---
