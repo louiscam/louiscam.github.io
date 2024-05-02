@@ -3,6 +3,13 @@ permalink: /talks/
 title: "Selected oral and poster presentations"
 ---
 
+**Cammarata, L.** Transcriptional changes are tightly coupled to chromatin reorganization during cellular aging. Oral presentation
+delivered at the EMBO Workshop on Nuclear Mechanogenomics, Pula, Italy, April 2024.
+
+**Cammarata, L.** Adhesome Receptor Clustering is Accompanied by the Colocalization of the Associated Genes in the Cell Nucleus. Poster presented at the EMBO Workshop on Nuclear Mechanogenomics, Pula, Italy, April 2024.
+
+**Cammarata, L.** Adhesome receptor clustering is accompanied by the co-localization of adhesome genes in the cell nucleus. Oral presentation delivered at the 22nd International Conference on Systems Biology, Hartford, CT, October 2023.
+
 **Cammarata, L.** Adhesome receptor clustering is accompanied by the co-localization of adhesome genes in the cell nucleus. Oral presentation delivered at the Broad Institute Cell Circuits and Epigenomics Seminar Series, Cambridge, MA, June 2022.
 
 **Cammarata, L.** Network Global Testing: Phase Transitions and Power Enhancement. Oral presentation delivered at the Harvard Mini-Workshop on Algebraic Statistics, Cambridge, MA, April 2022.
