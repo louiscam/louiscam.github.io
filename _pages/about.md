@@ -16,13 +16,13 @@ I have teaching experience in Statistics and Probability at the undergraduate an
 
 # Education
 
-PhD, Statistics, Harvard University, Cambridge, MA, 2018-2024
+Ph.D., Statistics, Harvard University, Cambridge, MA, 2018-2024
 
-MSc, Technology & Policy, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
+M.Sc., Technology & Policy, Massachusetts Institute of Technology, Cambridge, MA, 2016-2018
 
-MSc, Biological Engineering, École Polytechnique, Palaiseau, France, 2015-2016
+M.Sc., Biological Engineering, École Polytechnique, Palaiseau, France, 2015-2016
 
-BSc, Mathematics & Science, École Polytechnique, Palaiseau, France, 2013-2015
+B.Sc., Mathematics & Science, École Polytechnique, Palaiseau, France, 2013-2015
 
 # Fellowships & Awards
 
